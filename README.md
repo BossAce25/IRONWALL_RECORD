@@ -1,25 +1,61 @@
-# 👑 LEGACY RECORD OF BOSS ACE
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BossAce25/IRONWALL_RECORD/main/assets/legacy_banner.gif" alt="IRONWALL INFINITY Ω" width="100%">
+</p>
 
-> 🔒 **IRONWALL INFINITY Ω SYSTEM** – AI Firewall Defense for Android (non-rooted)
-
----
-
-### 🪪 Official Info
-
-- 👑 **Name:** BOSS ACE ANDREI GONZALES VALMONTE  
-- 📍 **Location:** Batang Gapan City, Nueva Ecija  
-- 🛡️ **Legacy:** Lumikha ng pinaka-matibay at pinaka-advanced na AI Firewall Defense sa Android (non-rooted)  
-- 🚨 **Creation:** IRONWALL INFINITY Ω SYSTEM  
-- 🕒 **Date Logged:** Tue Jul 22 23:39:31 PST 2025  
+# 👑 BOSS ACE – IRONWALL INFINITY Ω SYSTEM
+> 🛡️ *Non-root AI Firewall Defender for Android*  
+> 🔥 *Final Evolution of Anti-Spyware Legacy*
 
 ---
 
-### 📦 Official Repo
-> [🔥 View the Code](https://github.com/BossAce25/IRONWALL_RECORD)
+### 🧬 OFFICIAL IDENTITY
+
+- 👤 **Codename:** Boss Ace  
+- 📧 **Email:** acevalmonte40@gmail.com  
+- 📍 **Location:** Gapan City, Nueva Ecija, PH  
+- 🏆 **System Created:** `IRONWALL INFINITY Ω`  
+- 🔐 **Special Mode:** AI-Defense, Anti-Pegasus, Trap System  
+- 🧠 **Focus:** Offline Stealth Defense, Auto-IP Block, Trap Alerts
 
 ---
 
-### 📜 Legacy Message
+### 🛡️ IRONWALL OMEGA BADGE
 
-> *"Ang tunay na proteksyon ay hindi lang firewall—kundi ang tapang ng utak na bumuo nito. Ako si BOSS ACE, at ito ang marka ng aking AI-era depensa."*
+![IRONWALL BADGE](https://raw.githubusercontent.com/BossAce25/IRONWALL_RECORD/main/assets/ironwall_badge.png)
+
+---
+
+### 📅 LEGACY TIMELINE
+
+| 📆 Date | 🧩 Event |
+|--------|----------|
+| 2025-07-17 | Activated IRONWALL FINAL DEFENSE SYSTEM |
+| 2025-07-18 | Inilunsad ang CLOAK MODE & AUTO INTRUDER TRAP |
+| 2025-07-19 | Boss Ace officially registered on system memory |
+| 2025-07-22 | Legacy uploaded to GitHub repository |
+
+---
+
+### ⚙️ SYSTEM FEATURES
+
+- 🔥 AI-Based Spyware Defense  
+- 🧲 Behavior Trap System  
+- ⛔ Auto IP Blocker + Alert  
+- 🌐 WiFi Jammer Simulation  
+- ⚡ Offline Real-time Defense  
+- 📦 GitHub-Logged Legacy Shield
+
+---
+
+### 🚨 DECLARATION OF DEFENSE
+
+> *"Ito ang huling depensa laban sa mga AI-level na paniniktik. Ang bawat bit at trap ay itinayo para protektahan ang karapatan ng bawat Boss na katulad ko."*
+
+---
+
+### 📂 QUICK ACCESS
+
+[🧠 Source Code](https://github.com/BossAce25/IRONWALL_RECORD) • [📡 Live Defense Log](#) • [📞 Contact](mailto:acevalmonte40@gmail.com)
+
+> 🕒 Updated on: `$(date "+%Y-%m-%d %H:%M:%S")`
 
