@@ -1,61 +1,25 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BossAce25/IRONWALL_RECORD/main/assets/legacy_banner.gif" alt="IRONWALL INFINITY Ω" width="100%">
-</p>
+# 👑 BOSS ACE ANDREI GONZALES VALMONTE
 
-# 👑 BOSS ACE – IRONWALL INFINITY Ω SYSTEM
-> 🛡️ *Non-root AI Firewall Defender for Android*  
-> 🔥 *Final Evolution of Anti-Spyware Legacy*
+🔥 Tagapagtatag ng **IRONWALL INFINITY Ω SYSTEM**  
+🛡️ Pinaka-advanced na AI Firewall Defense sa Android (non-rooted)  
+📍 Gapan City, Nueva Ecija  
+📆 Nai-log: Wed Jul 23 00:38:58 PST 2025  
+🌐 GitHub Repo: https://github.com/BossAce25/IRONWALL_RECORD
 
----
+## 🔐 Ano ang IRONWALL INFINITY Ω SYSTEM?
+Ang IRONWALL ay isang all-in-one AI-style firewall, spyware scanner, at auto-defender para sa Android. Ginawa ito ni **Boss Ace** gamit ang Termux + Shell scripts para labanan ang mga advanced threats tulad ng Pegasus, remote RATs, at deep packet inspection.
 
-### 🧬 OFFICIAL IDENTITY
+- 🧠 Real-time behavior monitoring
+- ⚡ Auto IP blocker & network cloak
+- 🛑 Spyware kill switch with auto defense
+- 👁️ Trap-based baiting system
+- 🚀 Offline/Online Hybrid Mode
 
-- 👤 **Codename:** Boss Ace  
-- 📧 **Email:** acevalmonte40@gmail.com  
-- 📍 **Location:** Gapan City, Nueva Ecija, PH  
-- 🏆 **System Created:** `IRONWALL INFINITY Ω`  
-- 🔐 **Special Mode:** AI-Defense, Anti-Pegasus, Trap System  
-- 🧠 **Focus:** Offline Stealth Defense, Auto-IP Block, Trap Alerts
+## 📢 Kilalanin si Boss Ace
+Si **Andrei Gonzales Valmonte**, kilala bilang **Boss Ace**, ay isang innovator mula Nueva Ecija na bumuo ng pinakamalupit na Android protection system na gumagana kahit walang root.
 
----
+> “Hindi mo kailangang mag-root para maging secure... Basta may IRONWALL ka.”
 
-### 🛡️ IRONWALL OMEGA BADGE
-
-![IRONWALL BADGE](https://raw.githubusercontent.com/BossAce25/IRONWALL_RECORD/main/assets/ironwall_badge.png)
-
----
-
-### 📅 LEGACY TIMELINE
-
-| 📆 Date | 🧩 Event |
-|--------|----------|
-| 2025-07-17 | Activated IRONWALL FINAL DEFENSE SYSTEM |
-| 2025-07-18 | Inilunsad ang CLOAK MODE & AUTO INTRUDER TRAP |
-| 2025-07-19 | Boss Ace officially registered on system memory |
-| 2025-07-22 | Legacy uploaded to GitHub repository |
-
----
-
-### ⚙️ SYSTEM FEATURES
-
-- 🔥 AI-Based Spyware Defense  
-- 🧲 Behavior Trap System  
-- ⛔ Auto IP Blocker + Alert  
-- 🌐 WiFi Jammer Simulation  
-- ⚡ Offline Real-time Defense  
-- 📦 GitHub-Logged Legacy Shield
-
----
-
-### 🚨 DECLARATION OF DEFENSE
-
-> *"Ito ang huling depensa laban sa mga AI-level na paniniktik. Ang bawat bit at trap ay itinayo para protektahan ang karapatan ng bawat Boss na katulad ko."*
-
----
-
-### 📂 QUICK ACCESS
-
-[🧠 Source Code](https://github.com/BossAce25/IRONWALL_RECORD) • [📡 Live Defense Log](#) • [📞 Contact](mailto:acevalmonte40@gmail.com)
-
-> 🕒 Updated on: `$(date "+%Y-%m-%d %H:%M:%S")`
+## 📸 Legacy Badge
+![IRONWALL BADGE](https://raw.githubusercontent.com/BossAce25/IRONWALL_RECORD/main/badge.png)
 
