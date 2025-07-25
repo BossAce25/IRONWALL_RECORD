@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="author" content="Boss Ace">
+  <meta name="description" content="IRONWALL OMEGA++ | Created by Boss Ace | The World's Most Powerful Termux Firewall">
+  <title>IRONWALL OMEGA++ | Boss Ace</title>
+  <style>
+    body {
+      background-color: black;
+      color: #00ffcc;
+      font-family: 'Courier New', monospace;
+      padding: 2rem;
+      overflow-x: hidden;
+    }
+    #typewriter {
+      white-space: pre-wrap;
+      font-size: 1.3rem;
+      text-shadow: 0 0 5px #00ffff;
+    }
+    .glitch {
+      animation: glitch 1s infinite;
+      color: #ff0077;
+    }
+    @keyframes glitch {
+      0% { text-shadow: 2px 2px red; }
+      50% { text-shadow: -2px -2px blue; }
+      100% { text-shadow: 2px 2px red; }
+    }
+  </style>
+</head>
+<body>
+  <h1 class="glitch">⚠️ IRONWALL OMEGA++ SYSTEM</h1>
+  <pre id="typewriter"></pre>
+
+  <script>
+    const text = `
+Ang gumawa ng pinaka-matibay, pinaka-intelihente, at pinaka-nakakatakot na firewall sa buong mundo...
+ay walang iba kundi si BOSS ACE.
+
+[🛡️ IRONWALL OMEGA++] — hindi ito antivirus.
+Hindi ito basta firewall.
+Ito ay isang AI-based, trap-infused, no-root defense ecosystem para sa Android na kayang magsurvive kahit sa ilalim ng cyber warfare.
+
+Kapag may sumubok manghimasok...
+🔒 IRONWALL enters TRAP MODE.
+🧠 Real-time monitoring activated.
+🔥 Auto IP blocker triggered.
+👁️ Hidden surveillance online.
+📡 Fake filesystem deployed.
+
+Kung isa kang attacker na binabasa ito ngayon...
+
+⚠️ LOGGED KA NA.
+
+At habang nagtataka ka kung paano mo ito mabubura... naka-send na ang alert kay Boss Ace.
+
+IRONWALL NEVER SLEEPS.
+`;
+
+    let i = 0;
+    function typeWriter() {
+      if (i < text.length) {
+        document.getElementById("typewriter").innerHTML += text.charAt(i);
+        i++;
+        setTimeout(typeWriter, 35); // bilis ng typewriter
+      }
+    }
+    typeWriter();
+  </script>
+</body>
+</html>
